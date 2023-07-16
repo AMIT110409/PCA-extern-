@@ -15,3 +15,5 @@ Here are some additional things to consider when determining the optimum number 
 The size of the dataset: If the dataset is small, then it may be necessary to use all of the PCs. This is because there may not be enough data to explain the variance in the data with fewer PCs.
 The desired level of accuracy: If high accuracy is required, then it may be necessary to use more PCs. This is because using more PCs will allow the model to explain more of the variance in the data.
 The application: The optimum number of PCs may also depend on the application. For example, if the model is being used for visualization, then it may be necessary to use fewer PCs than if the model is being used for classification or regression.
+
+updated on 16-07-2023
